@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+![Screenshot 2025-05-14 094055](https://github.com/user-attachments/assets/fc5f426c-0d8c-4705-8524-c6ebda87049b)![Screenshot 2025-05-14 094055](https://github.com/user-attachments/assets/6a39f9b4-04ff-4a39-ace6-439ffc2adcf4)![Screenshot 2025-05-14 094055](https://github.com/user-attachments/assets/9b1e56a1-2936-4c17-88ec-a8b11bd0c5ac)![Screenshot 2025-05-14 094055](https://github.com/user-attachments/assets/c9ee0bea-4513-44bb-83e0-0fe0f91c72cd)![Screenshot 2025-05-14 094055](https://github.com/user-attachments/assets/de5d9993-eb2b-4150-82ab-62efc4f2bd9b)# Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
@@ -69,7 +69,20 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+![Screenshot 2025-05-14 094055](https://github.com/user-attachments/assets/342db037-1e10-49d7-bfa0-700b828a646b)
+
+![Screenshot 2025-05-14 094129](https://github.com/user-attachments/assets/8f2cf175-8179-45b8-9ba6-c226d8d034a8)
+
+![Screenshot 2025-05-14 094153](https://github.com/user-attachments/assets/f4b9003e-737f-4528-888c-ab902af10a14)
+
+![Screenshot 2025-05-14 094331](https://github.com/user-attachments/assets/d2e168f5-024a-4be7-868e-4d03398be6b6)
+
+![Screenshot 2025-05-14 094345](https://github.com/user-attachments/assets/b74e5429-9324-4a46-b856-a72460a10c99)
+
+![Screenshot 2025-05-14 094354](https://github.com/user-attachments/assets/4b8bb54c-524e-4ed4-8c4a-3f8a97076cce)
+
+![Screenshot 2025-05-14 094400](https://github.com/user-attachments/assets/b33873bb-4321-40b9-a90f-d877c6e2267c)
+
 
 
 ## Result:
